@@ -205,6 +205,8 @@ I went the extra step of pushing a copy of my Git repository MOLECULE (hostname 
 At this point you should get familiar with the rest of Git's functions. A good reference is https://git-scm.com/docs
 
 ### Reverting Changes
-If you need to restore an earlier commit and revert the changes that have been made since then, then you will need to use the `git revert` function, which can be tricky, especially if you only want to revert some of the changes since the last commit. I suggest that you use a GUI Git client to visualize the repository changes instead of trying to figure out the correct CLI commands.
+If you need to restore an earlier commit and revert the changes that have been made since then, then you will need to use the `git revert` function, which can be tricky, especially if you only want to revert some of the changes since the last commit. I suggest that you use a GUI Git client to visualize the repository changes instead of trying to figure out the correct CLI commands. 
 
 https://git-scm.com/downloads/guis
+
+Recommendation: https://tortoisegit.org/
