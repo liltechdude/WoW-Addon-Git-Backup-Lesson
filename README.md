@@ -170,7 +170,7 @@ PS E:\_retail_>
 Congratulations! You just made your first Git repository commit. Now, any and every change that is made to the repository directories, files, or their contents, will be tracked relative to the state of the last commit. A commit is a sort of snapshot. At any time you can revert all or some of the changes that have been made to the files since the last commit, which would function like restoring a backup. **Note: if you revert changes that have not been committed to the repository, then they will be lost when Git does this restoration.** 
 
 ### Repository Changes
-Now you may be wondering, how can we make a new snapshot of the repository to make another point-in-time backup of everything? You repeat the `git add .` and `git commit -m "Snapshot 5-20-2022"` steps. That's it! 
+Now you may be wondering, how can we make a new snapshot of the repository to make another point-in-time backup of everything? You repeat the `git add .` and `git commit -m "<insert commit message>"` steps. That's it! 
 
 ```
 PS C:\Program Files (x86)\World of Warcraft\_retail_> git commit -m "Snapshot Inter-patch 9.2.5"
