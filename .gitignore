@@ -1,0 +1,17 @@
+Cache/*
+Logs/*
+UTILS/*
+Screenshots/*
+Wow.exe
+amd_ags_x64.dll
+BlizzardError.exe
+d3d12.dll
+DBGHELP.DLL
+dxilconv7.dll
+.curseclient
+.flavor.info
+Interface/addons/TheUndermineJournal/*
+Interface/addons/TradeSkillMaster_AppHelper/*
+Interface/addons/TradeSkillMaster/*
+Interface/addons/RaiderIO/*
+Interface/addons/BigWigs/Media/*
