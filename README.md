@@ -55,7 +55,7 @@ d----           4/27/2022  7:35 PM                WTF
 
 PS C:\Program Files (x86)\World of Warcraft\_retail_>
 ```
-The printout above shows the default location of the WoW Retail folder and how to get there from the CLI. The next part is to do the initialization. First, however, we should define the `.gitignore` file, or use the one I provide you. **This is important because if you try to make the entire `_retail_` or `_classic_` directory a Git repository without exclusions, it will try to make about 2.5GB of data part of the Git repository and that is not what we want. We want a repository that is only the size that is needed to backup your addons and settings, which should be a few hundred Megabytes at most. (The size of the repository will grow over time because it keeps track of every change that is made to the files in the repository**
+The printout above shows the default location of the WoW Retail folder and how to get there from the CLI. The next part is to do the initialization. First, however, we should define the `.gitignore` file, or use the one I provide you in this repository. **This is important because if you try to make the entire `_retail_` or `_classic_` directory a Git repository without exclusions, it will try to make about 2.5GB of data part of the Git repository and that is not what we want. We want a repository that is only the size that is needed to backup your addons and settings, which should be a few hundred Megabytes at most. (The size of the repository will grow over time because it keeps track of every change that is made to the files in the repository**
 
 #### Example .gitignore file - Same as in this repository that you can download and copy to the `_retail_` directory
 ```
